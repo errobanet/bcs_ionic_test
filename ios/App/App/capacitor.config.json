@@ -1,0 +1,12 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "bcs_ionic_test",
+	"webDir": "www",
+	"packageClassList": [
+		"AppPlugin",
+		"HapticsPlugin",
+		"KeyboardPlugin",
+		"StatusBarPlugin",
+		"BCSSDKPlugin"
+	]
+}

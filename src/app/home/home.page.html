@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Demo BCS</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-item>
+    <ion-label position="floating">Url Base</ion-label>
+    <ion-input [(ngModel)]="url"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label position="floating">Codigo</ion-label>
+    <ion-input [(ngModel)]="code"></ion-input>
+  </ion-item>
+
+  <ion-button expand="block" (click)="processVerify()">Verificar</ion-button>
+
+  <p>{{ result }}</p>
+</ion-content>

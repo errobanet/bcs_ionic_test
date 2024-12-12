@@ -1,0 +1,7 @@
+{
+  "name": "bcs_ionic_test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
