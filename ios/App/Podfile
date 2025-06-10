@@ -21,6 +21,7 @@ end
 target 'App' do
   capacitor_pods
   # Add your Pods here
+  pod 'bcssdk', :path => 'bcssdk'
 end
 
 post_install do |installer|

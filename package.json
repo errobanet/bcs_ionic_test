@@ -28,7 +28,7 @@
     "@capacitor/ios": "6.2.0",
     "@capacitor/keyboard": "6.0.3",
     "@capacitor/status-bar": "6.0.2",
-    "@erroba/capacitor-bcssdk": "^1.4.2",
+    "@erroba/capacitor-bcssdk": "^1.5.1",
     "@ionic/angular": "^8.0.0",
     "ionicons": "^7.0.0",
     "rxjs": "~7.8.0",
